@@ -1,4 +1,4 @@
-## When yh 👋
+## Hi 👋
 
 ![Foto Profil](img/foto.jpg)
 <!--
